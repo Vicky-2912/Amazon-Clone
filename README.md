@@ -1,2 +1,2 @@
 # Amazon Clone
-Live link - amazon-frontend-clonevs.netlify.app
+[Live Here](amazon-frontend-clonevs.netlify.app)
